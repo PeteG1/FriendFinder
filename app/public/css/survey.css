@@ -1,0 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
+.input-group {
+  width: 170px;
+}

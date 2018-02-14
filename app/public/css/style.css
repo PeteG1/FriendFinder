@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+  background-image: url("../images/group.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.jumbotron {
+  opacity: 1;
+}
+
+#copyright {
+  padding: 40px;
+  font-size: 12px;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+}
